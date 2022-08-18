@@ -5,5 +5,24 @@ public class new222 {
         System.out.println("new222");
         System.out.println("new222");
         System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
+        System.out.println("new222");
     }
 }
